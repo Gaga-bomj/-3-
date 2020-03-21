@@ -1,0 +1,19 @@
+.li {
+  position: static;
+  height: 16px;
+  left: 20px;
+  right: 20px;
+  top: calc(50% - 16px/2);
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 16px;
+
+  color: #000000;
+
+  flex: none;
+  order: 0;
+  margin: 0px 0px;
+}
